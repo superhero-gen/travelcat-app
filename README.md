@@ -1,4 +1,6 @@
-TravelCat App
+TravelCat App 
+
+![Preview](Screenshot 2025-09-17 225441.png)
 
 **TravelCat** — моё первое учебное приложение, сделанное на [Lovable](https://lovable.dev).
 Оно помогает тренироваться проходить погранконтроль в игровой форме:
